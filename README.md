@@ -1,4 +1,4 @@
-# ml-AmazonReviews
+# ml-amazon-reviews
 Machine Learning Project using python and sci-kit learn with Amazon Reviews dataset
 
 Based on the https://www.youtube.com/watch?v=M9Itm95JzL0 tutorial.
